@@ -11,7 +11,7 @@
 ## 💻 Kỹ Năng
 
 - **Ngôn ngữ lập trình:** Java, C#, JavaScript, CSS, HTML
-- **Công cụ & Framework:** [Các công cụ bạn sử dụng, ví dụ: Spring, Node.js, React, MSSQL, Docker]
+- **Công cụ & Framework:** Eclipse, Visual Studio, MSSQL
 - **Quản lý cơ sở dữ liệu:** SQL Server
 
 ## 📫 Liên Hệ
